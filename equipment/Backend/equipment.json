@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1766122403482,
+    "name": "Tank1",
+    "type": "Tank",
+    "status": "Active",
+    "lastCleaned": "2025-12-18"
+  },
+  {
+    "id": 1766122438042,
+    "name": "Machine1",
+    "type": "Machine",
+    "status": "Active",
+    "lastCleaned": "2025-12-19"
+  },
+  {
+    "id": 1766122475728,
+    "name": "Mixer1",
+    "type": "Mixer",
+    "status": "Active",
+    "lastCleaned": "2025-12-20"
+  }
+]
